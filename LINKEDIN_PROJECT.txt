@@ -1,0 +1,19 @@
+LINKEDIN PROJECT PROFILE ENTRY
+
+Name: Autonomous Mobility Network Expansion Strategy
+
+Description:
+Built an end-to-end analytics case study to evaluate which U.S. markets merit further consideration for robotaxi, sidewalk robot and drone delivery expansion. Integrated public datasets into a Snowflake/dbt pipeline (27 RAW tables; 686 passing data tests) and scored 35 metros. Tested ranking robustness with 10,000 weighting simulations per mode and modeled regulatory scenarios. San Francisco led baseline robotaxi readiness (91.8/100), while Boston’s scenario ranking ranged from 20th to 4th, highlighting why regulatory diligence matters. Presented findings, trade-offs and next-step recommendations in a six-page Power BI dashboard. Independent project; not affiliated with Uber.
+
+Top skills to add: Power BI, Python, Snowflake, SQL, dbt
+
+Media link (available now):
+https://github.com/priyaareti14/autonomous-mobility-expansion-strategy
+
+Media link (after website deployment):
+Use your actual published website address + projects/mobility.html
+
+Media link (when University/public Power BI access is resolved):
+Add the PUBLIC Power BI URL; do not link a restricted My Workspace share link.
+
+No need to reschedule tomorrow's already scheduled LinkedIn post just because the live Power BI link is pending. The case study, GitHub repository, and dashboard screenshots already demonstrate the project.
