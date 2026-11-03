@@ -222,3 +222,23 @@ html[data-theme="rose"] .studio-tab.is-active{background:var(--lime);border-colo
  .feature-art{overflow:hidden}
  .tile-copy h3{font-size:34px}
 }
+
+
+/* Nov 2026: compact work CTAs and smooth handoff into About section. */
+.work-section{padding-bottom:30px}
+.about-section{padding-top:55px}
+.work-more+.work-footnote{margin-top:18px}
+.work-more-arrow{display:block;width:19px;height:19px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+@media(max-width:900px){
+  .work-more-link{flex:0 1 auto;min-height:52px}
+}
+@media(max-width:600px){
+  .work-section{padding-bottom:16px}
+  .about-section{padding-top:38px}
+  .work-more{padding:17px 17px 19px;gap:14px}
+  .work-more-copy p{font-size:22px;line-height:1.18}
+  .work-more-actions{gap:9px;flex-direction:column;align-items:stretch}
+  .work-more-link{flex:0 0 auto;width:100%;min-height:52px;padding:13px 15px;gap:10px;font-size:10px;line-height:1.35}
+  .work-more-arrow{width:18px;height:18px}
+  .work-more+.work-footnote{margin-top:18px}
+}
